@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{9D834ADC-577C-7FC2-156F-7B37C3034E77}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TitleManager.cs" Line="42" Column="47" />
+      <File FileName="Assets/Scripts/MainManager.cs" Line="125" Column="44" />
+      <File FileName="Assets/Scripts/EndManager.cs" Line="28" Column="76" />
+      <File FileName="Assets/Scripts/StartCall.cs" Line="13" Column="82" />
+      <File FileName="Assets/Scripts/GeneralEffect.cs" Line="24" Column="29" />
+      <File FileName="Assets/Scripts/Protagonist.cs" Line="36" Column="93" />
+      <File FileName="Assets/Scripts/ItemManager.cs" Line="58" Column="116" NotebookId="1" />
+      <File FileName="Assets/Scripts/EndCall.cs" Line="23" Column="2" NotebookId="1" />
+      <File FileName="Assets/Scripts/Item.cs" Line="37" Column="63" NotebookId="1" />
+      <File FileName="Assets/Scripts/EffectCall.cs" Line="22" Column="60" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
